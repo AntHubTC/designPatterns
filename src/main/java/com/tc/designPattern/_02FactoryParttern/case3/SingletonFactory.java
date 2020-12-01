@@ -5,6 +5,8 @@ import java.lang.reflect.InvocationTargetException;
 
 /**
  *  工厂方法模式扩展：替代单例模式。
+ *
+ *  这样就解决了之前的单例模式违背SRP单一职责的问题。
  */
 public class SingletonFactory {
     private static Singleton singleton;
