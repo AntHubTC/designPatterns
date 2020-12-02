@@ -41,7 +41,7 @@ public class Client {
         long total1 = 0;
         long total2 = 0;
         for (int i = 0; i < len; i++) {
-            total1 += test1();
+            total1 += +test1();
             total2 += test2();
         }
         System.out.println("test1平均耗时:" + (total1/len));
