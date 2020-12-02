@@ -2,6 +2,9 @@ package com.tc.designPattern._07PrototypeParttern.case2;
 
 import java.util.ArrayList;
 
+/**
+ * 浅拷贝
+ */
 public class Thing implements Cloneable {
     //定义一个私有变量
     private ArrayList<String> arrayList = new ArrayList<String>();
