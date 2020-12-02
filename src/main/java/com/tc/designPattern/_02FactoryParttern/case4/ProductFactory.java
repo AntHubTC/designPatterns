@@ -11,6 +11,7 @@ public class ProductFactory {
 
     public static synchronized Product createProduct(String type) throws Exception {
         Product product = null;
+        // 如果Map中已经有这个对象
         if (productMap.containsKey(type)) {
             product = productMap.get(type);
         } else {
@@ -19,6 +20,8 @@ public class ProductFactory {
             } else if ("Product2".equals(type)) {
                 product = new ProductType2();
             }
+            // 同时把对象放到缓存容器中
+            productMap.put(type, product);
         }
         return product;
     }
