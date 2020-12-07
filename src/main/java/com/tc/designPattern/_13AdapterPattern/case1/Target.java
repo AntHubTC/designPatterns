@@ -1,4 +1,4 @@
-package com.tc.designPattern._13Adapter.case1;
+package com.tc.designPattern._13AdapterPattern.case1;
 
 /**
  * 定义客户端使用的接口，与特定领域相关

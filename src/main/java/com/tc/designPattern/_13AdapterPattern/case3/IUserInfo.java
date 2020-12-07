@@ -1,4 +1,4 @@
-package com.tc.designPattern._13Adapter.case4;
+package com.tc.designPattern._13AdapterPattern.case3;
 
 /**
  * 员工信息接口

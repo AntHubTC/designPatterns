@@ -1,4 +1,4 @@
-package com.tc.designPattern._13Adapter.case3;
+package com.tc.designPattern._13AdapterPattern.case3;
 
 import java.util.Map;
 

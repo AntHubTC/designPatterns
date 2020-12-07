@@ -1,4 +1,4 @@
-package com.tc.designPattern._13Adapter.case2;
+package com.tc.designPattern._13AdapterPattern.case2;
 
 /**
  * Author:tangc

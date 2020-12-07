@@ -1,4 +1,4 @@
-package com.tc.designPattern._13Adapter.case4;
+package com.tc.designPattern._13AdapterPattern.case4;
 
 /**
  * 适配器的扩展

@@ -1,4 +1,4 @@
-package com.tc.designPattern._13Adapter.case1;
+package com.tc.designPattern._13AdapterPattern.case1;
 
 /**
  * 已经存在的接口，这个接口需要适配
