@@ -1,4 +1,4 @@
-package com.tc.designPattern._14Iterator.case2;
+package com.tc.designPattern._14IteratorPattern.case2;
 
 import java.util.Iterator;
 

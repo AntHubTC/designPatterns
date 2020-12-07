@@ -1,4 +1,4 @@
-package com.tc.designPattern._14Iterator.case3;
+package com.tc.designPattern._14IteratorPattern.case3;
 
 /**
  * 抽象容器

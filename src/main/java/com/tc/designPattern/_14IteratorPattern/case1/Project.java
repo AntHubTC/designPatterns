@@ -1,4 +1,4 @@
-package com.tc.designPattern._14Iterator.case1;
+package com.tc.designPattern._14IteratorPattern.case1;
 
 public class Project implements IProject {
     // 项目名称
