@@ -1,9 +1,9 @@
-package com.tc.designPattern._17Facade.case1;
+package com.tc.designPattern._17FacadePattern.case1;
 
-import com.tc.designPattern._17Facade.case1.module.Business;
-import com.tc.designPattern._17Facade.case1.module.CodeGenerate;
-import com.tc.designPattern._17Facade.case1.module.DAO;
-import com.tc.designPattern._17Facade.case1.module.Presentation;
+import com.tc.designPattern._17FacadePattern.case1.module.Business;
+import com.tc.designPattern._17FacadePattern.case1.module.CodeGenerate;
+import com.tc.designPattern._17FacadePattern.case1.module.DAO;
+import com.tc.designPattern._17FacadePattern.case1.module.Presentation;
 
 /**
  * 没有使用外观模式

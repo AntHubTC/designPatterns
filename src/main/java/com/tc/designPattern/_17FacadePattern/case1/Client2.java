@@ -1,7 +1,7 @@
-package com.tc.designPattern._17Facade.case1;
+package com.tc.designPattern._17FacadePattern.case1;
 
-import com.tc.designPattern._17Facade.case1.facade.GenCodeFacade;
-import com.tc.designPattern._17Facade.case1.module.CodeGenerate;
+import com.tc.designPattern._17FacadePattern.case1.facade.GenCodeFacade;
+import com.tc.designPattern._17FacadePattern.case1.module.CodeGenerate;
 
 /**
  * 外观模式

@@ -1,4 +1,4 @@
-package com.tc.designPattern._17Facade.case1.config;
+package com.tc.designPattern._17FacadePattern.case1.config;
 
 /**
  * 示意配置描述的数据Model，真实的配置数据会很多

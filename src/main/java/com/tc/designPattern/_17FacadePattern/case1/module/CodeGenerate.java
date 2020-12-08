@@ -1,4 +1,4 @@
-package com.tc.designPattern._17Facade.case1.module;
+package com.tc.designPattern._17FacadePattern.case1.module;
 
 /**
  * Author:tangc

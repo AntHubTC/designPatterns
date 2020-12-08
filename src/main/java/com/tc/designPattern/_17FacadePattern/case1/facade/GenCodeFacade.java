@@ -1,9 +1,9 @@
-package com.tc.designPattern._17Facade.case1.facade;
+package com.tc.designPattern._17FacadePattern.case1.facade;
 
-import com.tc.designPattern._17Facade.case1.module.Business;
-import com.tc.designPattern._17Facade.case1.module.CodeGenerate;
-import com.tc.designPattern._17Facade.case1.module.DAO;
-import com.tc.designPattern._17Facade.case1.module.Presentation;
+import com.tc.designPattern._17FacadePattern.case1.module.Business;
+import com.tc.designPattern._17FacadePattern.case1.module.CodeGenerate;
+import com.tc.designPattern._17FacadePattern.case1.module.DAO;
+import com.tc.designPattern._17FacadePattern.case1.module.Presentation;
 
 /**
  * Author:tangc

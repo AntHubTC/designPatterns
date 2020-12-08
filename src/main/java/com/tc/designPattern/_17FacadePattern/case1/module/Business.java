@@ -1,7 +1,7 @@
-package com.tc.designPattern._17Facade.case1.module;
+package com.tc.designPattern._17FacadePattern.case1.module;
 
-import com.tc.designPattern._17Facade.case1.config.ConfigManager;
-import com.tc.designPattern._17Facade.case1.config.ConfigModel;
+import com.tc.designPattern._17FacadePattern.case1.config.ConfigManager;
+import com.tc.designPattern._17FacadePattern.case1.config.ConfigModel;
 
 /**
  * 示意生成逻辑层的模块

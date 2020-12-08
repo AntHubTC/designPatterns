@@ -1,4 +1,4 @@
-package com.tc.designPattern._17Facade.case2;
+package com.tc.designPattern._17FacadePattern.case2;
 
 public class ClassC {
     public void doSomething() {
