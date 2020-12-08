@@ -1,4 +1,4 @@
-package com.tc.designPattern._18Memento.case1;
+package com.tc.designPattern._18MementoPattern.case1;
 
 /**
  * 男孩的状态类

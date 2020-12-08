@@ -1,4 +1,4 @@
-package com.tc.designPattern._18Memento.case2;
+package com.tc.designPattern._18MementoPattern.case2;
 
 /**
  * 备忘录管理者
